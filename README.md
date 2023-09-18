@@ -1,5 +1,4 @@
 # AI-Search-Algorithms
-# AI Search Algorithms Project
 
 This project focuses on exploring various AI search algorithms, both `uninformed` and `informed`, to tackle a problem involving agent movement, food consumption, and achieving optimal paths. The primary goal is to implement and compare these algorithms for solving the given problem.
 
